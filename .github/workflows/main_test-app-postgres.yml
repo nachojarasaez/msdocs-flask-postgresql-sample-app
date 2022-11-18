@@ -60,4 +60,4 @@ jobs:
         with:
           app-name: 'Test-app-postgres'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_D99EB61BEA0D4A14BE4BFD03EDB33EC3 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_E9297868FB1D4FE39A13DC8C679B7DBF }}
